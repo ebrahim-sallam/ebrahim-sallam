@@ -9,11 +9,11 @@
 
 ### 💫 About Me:
 - 🔭 I’m currently working on improving my backend development skills  
-- 🌱 I’m currently learning Git, GitHub and advanced Spring Boot  
+- 🌱 I’m currently learning Git, GitHub, and advanced Spring Boot  
 - 👯 I’m looking to collaborate on backend Java projects  
-- 💬 Ask me about Java, Spring Boot, MySQL  
+- 💬 Ask me about **Java, Spring Boot, MySQL**  
 - 📫 How to reach me: **[Your Email]**  
-- ⚡ Fun fact: I love solving problems and learning new things
+- ⚡ Fun fact: I enjoy solving problems and I always love learning something new!
 
 ---
 
@@ -28,32 +28,57 @@
 
 ---
 
-### 📈 My GitHub Stats:
+### 🚀 GitHub Stats & Activity:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ebrahim's GitHub stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
 
-### 🌱 Currently Learning:
-- Advanced Spring Boot 🔥  
-- Git and GitHub best practices 🚀  
-- System Design basics 🛠️  
-
----
-
-### 📬 Contact Me:
-- Email: **[Your Email]**
-- LinkedIn: **[Your LinkedIn Profile]**
-
----
-
-### ⚡ GitHub Activity Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=rogue" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
-### 🚀 Quote:
+### 🎯 Currently Learning:
+- 🔥 Advanced Spring Boot  
+- 🚀 Git & GitHub best practices  
+- 🛠️ System Design basics  
+
+---
+
+### 📂 My Projects:
+- 🚧 Working on backend-based pharmacy management system  
+- 🚧 Building a restaurant website with Spring Boot  
+
+---
+
+### 📫 Contact Me:
+<p align="left">
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ Fun Touch:
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
+</p>
+
+---
+
+### 📜 Quote:
 <p align="center"><i>"Continuous improvement is better than delayed perfection."</i></p>
+
+---
+
+### ❤️ Support:
+<p align="center">⭐ Feel free to star my repositories if you find them useful!</p>
