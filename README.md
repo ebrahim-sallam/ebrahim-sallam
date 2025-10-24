@@ -89,13 +89,6 @@
 
 ---
 
-### ✨ Fun Touch:
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4ODM5ODMsIm5iZiI6MTc1MDg4MzY4MywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI1VDIwMzQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1ZTA5OGI2MjM3MGY4OWUxNzY0NWZlNmIxYjM4OGY2NTdlNWVkZDgxYTkyZTVhZmRiOGZiNjY5ODA2NTc5ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JeIRX9b3dhzGTP09crlm-x1gP0NiUHwIbrU2ST2poMg" width="400" />
-</p>
-
----
-
 ### 📜 Quote:
 <p align="center"><i>"Continuous improvement is better than delayed perfection."</i></p>
 
